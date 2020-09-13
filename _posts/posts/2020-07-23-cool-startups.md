@@ -13,3 +13,12 @@ visible: 1
 [Rosebud AI](https://www.rosebud.ai/)
 - Develops a tool that swaps real faces with synthetic faces in any photo, or turns photos of clothes on mannequins into photos of models wearing the same clothes. 
 
+<br>
+[Orchard](https://orchard.com/)
+- Helps customers who are trying to sell their current home while simultaneously buying a new one
+- Uses ML to detect features from photos of every home on the market, which then allows potential buyers to search for homes based on very granural criteria
+
+<br>
+[Bidrento](https://bidrento.ee/)
+- An Estonian startup which helps homeowners find reliable renters for their homes
+
